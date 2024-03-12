@@ -1,0 +1,36 @@
+(ExpressProject "Sample"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\sample.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sample.dsn")
+      (Path "Design Resources" ".\sample.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\sample.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 194 1844 -3 660")
+        (Scroll "-316 128")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\SPB_DATA\SAMPLE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "shi.aoki")
+  (PartMRUSelector))

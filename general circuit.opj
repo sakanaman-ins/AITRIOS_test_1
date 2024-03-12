@@ -1,0 +1,107 @@
+(ExpressProject "general circuit"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\general circuit.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (Diode_002_AK01
+      (FullPartName "Diode_002_AK01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (Varistor_002_AA01
+      (FullPartName "Varistor_002_AA01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (Transistor_003_AF01
+      (FullPartName "Transistor_003_AF01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (Digital_005_AG01
+      (FullPartName "Digital_005_AG01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (Digital_006_AF01
+      (FullPartName "Digital_006_AF01A.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (PhotoCoupler_004_AA01
+      (FullPartName "PhotoCoupler_004_AA01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (Diode_003_AC01
+      (FullPartName "Diode_003_AC01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (Capacitor_002_AA01
+      (FullPartName "Capacitor_002_AA01.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\MSLIB.OLB")
+      (DeviceIndex "0"))
+    (LM8272
+      (FullPartName "LM8272.Normal")
+      (LibraryName "\\CITRON\CSC\LIBRARY\PCBG.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("NPN EBC"
+      (FullPartName "NPN EBC.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (74LV244/SO
+      (FullPartName "74LV244/SO.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\BUSDRIVERTRANSCEIVER.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5"
+      (FullPartName "HEADER 5.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\general circuit.dsn")
+      (Path "Design Resources" ".\general circuit.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\general circuit.dsn" "Design Cache")
+      (Select "Design Resources" ".\general circuit.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 373 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 201 1782 3 644")
+        (Scroll "-344 0")
+        (Zoom "87")
+        (Occurrence "/"))
+      (Path "C:\SPB_DATA\GENERAL CIRCUIT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "shi.aoki"))
